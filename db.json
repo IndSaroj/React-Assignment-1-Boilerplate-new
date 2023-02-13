@@ -1,0 +1,24 @@
+{
+  "Contacts": [
+    {
+      "fname": "saroj ",
+      "lname": "kumar",
+      "email": "saroj@gmail.com",
+      "phone": "8375919802",
+      "city": "delhi",
+      "pincode": "123456",
+      "password": "Saroj@gmail.com",
+      "id": 3
+    },
+    {
+      "fname": "saroj ",
+      "lname": "kumar",
+      "email": "saroj@gmail.com",
+      "phone": "8375919802",
+      "city": "delhi",
+      "pincode": "123456",
+      "password": "Saroj@gmail.com",
+      "id": 4
+    }
+  ]
+}
